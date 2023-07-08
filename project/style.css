@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+}
+
+.head{
+	background-image: url(head-fon.png) ;
+	height: 800px;
+
+}
+.head-line{
+    position: absolute;
+    background-color:#005BC199 ;
+    height: 80px;
+    width: 1920px;
+    display: flex;
+    align-items: center;
+}
+.menu{
+	color: white;
+	text-decoration: none;
+}
